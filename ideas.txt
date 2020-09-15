@@ -1,0 +1,32 @@
+1. Notifications
+
+    i)   Hypothesis:
+        Email/SMS reminders can increase login frequency
+
+    ii)  Expected impact:
+        Increased login frequency and engagement
+
+    iii) What the feature is:
+        Reminders for tasks which are incomplete and haven't been updated in a certain period of time
+
+2. Collaboration
+
+    i)   Hypothesis:
+        Collaboration will result in teams using the software
+
+    ii)  Expected impact:
+        More people using the software
+
+    iii) What the feature is:
+        Allowing collaboration between users
+
+3. Adding new swimlanes
+
+    i)   Hypothesis:
+        The ability to customise the swimlanes makes the software adaptable for different workflows
+
+    ii)  Expected impact:
+        Increased user engagement
+
+    iii) What the feature is:
+        Adding custom new swimlanes

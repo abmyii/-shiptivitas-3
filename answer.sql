@@ -19,6 +19,5 @@ SELECT num / (julianday(datetime(login_timestamp, 'unixepoch')) - julianday(date
 -- PART 2: Create a SQL query that indicates the number of status changes by card
 
 
-
-
+SELECT cardID, count(cardID) FROM card_change_history GROUP by cardID;
 
